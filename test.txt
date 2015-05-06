@@ -1,1 +1,4 @@
 This is a CP 1251 file
+
+Это строка с русскими буквами
+Add string with russian letters
